@@ -1,0 +1,576 @@
+2025-03-21 14:53:20 - Request Data: Array
+(
+    [partnerCode] => MOMONAXX20250226
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1742565200-67dd6f504a678
+    [amount] => 282000
+    [orderId] => 67dd6f4dba151
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67dd6f4dba151
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => captureWallet
+    [signature] => 5ad5e34f94c5a9801a828824e087ea35fcb8c5440f9d60e95d96c3e38a43b3d8
+)
+
+2025-03-21 14:53:23 - Request Data: Array
+(
+    [partnerCode] => MOMONAXX20250226
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1742565203-67dd6f539d9a3
+    [amount] => 150000
+    [orderId] => 67dd6f50973f3
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67dd6f50973f3
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => captureWallet
+    [signature] => 19ed5b88796de4ece72f36ee3ad1d917f82f9870b3a1131e9a88bc6060c9aa74
+)
+
+2025-03-21 14:53:35 - Request Data: Array
+(
+    [partnerCode] => MOMONAXX20250226
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1742565215-67dd6f5f28ac4
+    [amount] => 150000
+    [orderId] => 67dd6f53e0504
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67dd6f53e0504
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => captureWallet
+    [signature] => 3902ae00a3c0d85f43ca9ff50d40bfca28a2a12c1f0ca03b2d59f215b13e081a
+)
+
+2025-03-21 14:53:51 - Request Data: Array
+(
+    [partnerCode] => MOMONAXX20250226
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1742565231-67dd6f6f70a33
+    [amount] => 150000
+    [orderId] => 67dd6f5f68f9e
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67dd6f5f68f9e
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => captureWallet
+    [signature] => 231f20b39d884dc834bd16f770b814cc24a4393ec2cfd195d36b2a694b84e050
+)
+
+2025-03-21 15:01:14 - Request Data: Array
+(
+    [partnerCode] => MOMONAXX20250226
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1742565674-67dd712add77e
+    [amount] => 245000
+    [orderId] => 67dd71296858f
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67dd71296858f
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => captureWallet
+    [signature] => 4009bae48f674dca6e3a85eeefdbc2446c235af9aaf42d159fae01c9827c54d3
+)
+
+2025-03-21 15:14:11 - Request Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1742566451-67dd7433d665f
+    [amount] => 245000
+    [orderId] => 67dd742cc085a
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67dd742cc085a
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => captureWallet
+    [signature] => d8dd0ca20170c55eec5515d7ab6401f08fd232c4f4b6df2b39f3b6242af7cd86
+)
+
+2025-03-21 15:14:15 - Request Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1742566455-67dd74378efe6
+    [amount] => 150000
+    [orderId] => 67dd7433ecd5d
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67dd7433ecd5d
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => captureWallet
+    [signature] => 682edadf7443c015c8547761c9d5f0c0f988c8825067ad033c07fb7ddaa8d45f
+)
+
+2025-03-21 15:23:43 - Request Data: Array
+(
+    [partnerCode] => MOMO_TEST
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1742567023-67dd766fc40a2
+    [amount] => 245000
+    [orderId] => 67dd766e75be2
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67dd766e75be2
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => captureWallet
+    [signature] => 237d03f4295e8ddfc90afbddd41c8fbd453ff7684af3c80ba7829c9e38edca5f
+)
+
+2025-03-21 15:23:47 - Request Data: Array
+(
+    [partnerCode] => MOMO_TEST
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1742567027-67dd767319dd1
+    [amount] => 150000
+    [orderId] => 67dd766fc95f2
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67dd766fc95f2
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => captureWallet
+    [signature] => 2ea7e222bef9c9c95b8799cdfc7c251eb2d755d48baaa26601238ab0f3a2b83c
+)
+
+2025-03-24 09:18:56 - Request Data: Array
+(
+    [partnerCode] => MOMONAXX20250226
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1742804336-67e1157012875
+    [amount] => 550000
+    [orderId] => 67e115634d7d7
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67e115634d7d7
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => captureWallet
+    [signature] => 42f1138e732236ea1d634d2466e1611e4d3b4b39cd33a3c69a8c298bae4fbe93
+)
+
+2025-03-24 09:18:59 - Request Data: Array
+(
+    [partnerCode] => MOMONAXX20250226
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1742804339-67e1157386dbd
+    [amount] => 300000
+    [orderId] => 67e1157060bfb
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67e1157060bfb
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => captureWallet
+    [signature] => ef03f5b6db7f2a81ff91b3f8f6ead92f94a6cb8dfdff4424a3984daf548b705c
+)
+
+2025-04-04 18:24:29 - Request Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1743765869-67efc16d55524
+    [amount] => 550000
+    [orderId] => 67efc168a1da5
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67efc168a1da5
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => captureWallet
+    [signature] => 3b3aeb197bed33d4073ea50177b36d47a8f607beb76cb9e7356d2bdc3859f26c
+)
+
+2025-04-04 18:24:31 - Request Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1743765871-67efc16fcf996
+    [amount] => 300000
+    [orderId] => 67efc16d73c07
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67efc16d73c07
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => captureWallet
+    [signature] => 425630ed7327657b6c2c31cd9205976bfdf74d1d538f7a3fcaf2ea560c426ab7
+)
+
+2025-04-04 18:26:56 - Request Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1743766016-67efc2000697a
+    [amount] => 374000
+    [orderId] => 67efc1f89f826
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67efc1f89f826
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => captureWallet
+    [signature] => 01a478979fbe3ade6dfa7d82c0692851293d8d7837198a8cf3d7df5210128ead
+)
+
+2025-04-04 18:31:01 - Request Data: Array
+(
+    [partnerCode] => MOMOIQA420180417
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1743766261-67efc2f5867e8
+    [amount] => 550000
+    [orderId] => 67efc2f44b9ee
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67efc2f44b9ee
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => captureWallet
+    [signature] => b1a23d298eed9b8546648c8b534d8bb13adeb478bcf87c8e89fb75fd05c1b167
+)
+
+2025-04-04 18:34:18 - Request Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1743766458-67efc3baabf84
+    [amount] => 550000
+    [orderId] => 67efc3b92ec62
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67efc3b92ec62
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => captureWallet
+    [signature] => 0fa531c2b355bb132b94f11d9af21e7ab6df420131a2fe464be56808dac9f848
+)
+
+2025-04-04 18:39:20 - Request Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1743766760-67efc4e8a297d
+    [amount] => 300000
+    [orderId] => 67efc4e792d78
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67efc4e792d78
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => captureWallet
+    [signature] => e9d86a7d9bb966783ab75b99da8a9cd0f1a3e7ffdac2577d4928259aba450bfc
+)
+
+2025-04-04 18:51:51 - Request Data: Array
+(
+    [partnerCode] => MOMO1712108682648
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1743767511-67efc7d735da0
+    [amount] => 490000
+    [orderId] => 67efc7d52ef75
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67efc7d52ef75
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => captureWallet
+    [signature] => 6d25f093f430ca7008e337c3c050487566038a3d49ab637209b8037e9251c842
+)
+
+2025-04-04 18:56:01 - Request Data: Array
+(
+    [partnerCode] => MOMO1712108682648
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1743767761-67efc8d145851
+    [amount] => 550000
+    [orderId] => 67efc8d053470
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67efc8d053470
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => captureWallet
+    [signature] => e1bb664ce0a3c67b4beb42995782ca9adf56bb0f8ceab1b961ef0280070b7ce4
+)
+
+2025-04-04 18:56:01 - Raw Hash for Signature: accessKey=F8BBA842ECF85&amount=550000&extraData=&ipnUrl=http://localhost:3000/BanVeXemPhim/views/momo_notify.php&orderId=67efc8d053470&orderInfo=Thanh toan ve xem phim - Ma giao dich: 67efc8d053470&partnerCode=MOMO1712108682648&redirectUrl=http://localhost:3000/BanVeXemPhim/views/momo_return.php&requestId=1743767761-67efc8d145851&requestType=captureWallet
+2025-04-04 19:07:29 - Request Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1743768449-67efcb8111228
+    [amount] => 550000
+    [orderId] => 67efcb7fd0247
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67efcb7fd0247
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => captureWallet
+    [signature] => d63956037b8669b17832889b1c5d2e4b9f51ce575f3f8080fb3e94bb04f08cd4
+)
+
+2025-04-04 19:07:29 - Raw Hash for Signature: accessKey=klm05TvNBzhg7h7j&amount=550000&extraData=&ipnUrl=http://localhost:3000/BanVeXemPhim/views/momo_notify.php&orderId=67efcb7fd0247&orderInfo=Thanh toan ve xem phim - Ma giao dich: 67efcb7fd0247&partnerCode=MOMOBKUN20180529&redirectUrl=http://localhost:3000/BanVeXemPhim/views/momo_return.php&requestId=1743768449-67efcb8111228&requestType=captureWallet
+2025-04-04 19:14:49 - Request Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1743768889-67efcd39c96e6
+    [amount] => 550000
+    [orderId] => 67efcd37a032a
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67efcd37a032a
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => payWithMethod
+    [signature] => 067919a6ab0f1d32f9e471e9cd3731de34f76e6a24a5381076b77cca7824ea17
+)
+
+2025-04-04 19:14:49 - Raw Hash for Signature: accessKey=klm05TvNBzhg7h7j&amount=550000&extraData=&ipnUrl=http://localhost:3000/BanVeXemPhim/views/momo_notify.php&orderId=67efcd37a032a&orderInfo=Thanh toan ve xem phim - Ma giao dich: 67efcd37a032a&partnerCode=MOMOBKUN20180529&redirectUrl=http://localhost:3000/BanVeXemPhim/views/momo_return.php&requestId=1743768889-67efcd39c96e6&requestType=payWithMethod
+2025-04-04 19:24:50 - Request Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1743769490-67efcf926ebc9
+    [amount] => 408000
+    [orderId] => 67efcf90b00d2
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67efcf90b00d2
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => payWithMethod
+    [signature] => c0fe1e1ab56a0ba912bca4d7347a3adca43e319fdbf915adb388c9bdba3c2c68
+)
+
+2025-04-04 19:24:50 - Raw Hash for Signature: accessKey=klm05TvNBzhg7h7j&amount=408000&extraData=&ipnUrl=http://localhost:3000/BanVeXemPhim/views/momo_notify.php&orderId=67efcf90b00d2&orderInfo=Thanh toan ve xem phim - Ma giao dich: 67efcf90b00d2&partnerCode=MOMOBKUN20180529&redirectUrl=http://localhost:3000/BanVeXemPhim/views/momo_return.php&requestId=1743769490-67efcf926ebc9&requestType=payWithMethod
+2025-04-04 19:27:56 - Request Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1743769676-67efd04cb922e
+    [amount] => 408000
+    [orderId] => 67efd04b4c12a
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67efd04b4c12a
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => payWithMethod
+    [signature] => cf655a4c8b5bbefd91d75bbcde70fe77f198f3e0097b2f0f0564fb33eeb09f15
+)
+
+2025-04-04 19:27:56 - Raw Hash for Signature: accessKey=klm05TvNBzhg7h7j&amount=408000&extraData=&ipnUrl=http://localhost:3000/BanVeXemPhim/views/momo_notify.php&orderId=67efd04b4c12a&orderInfo=Thanh toan ve xem phim - Ma giao dich: 67efd04b4c12a&partnerCode=MOMOBKUN20180529&redirectUrl=http://localhost:3000/BanVeXemPhim/views/momo_return.php&requestId=1743769676-67efd04cb922e&requestType=payWithMethod
+2025-04-04 19:40:59 - Request Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1743770459-67efd35bce852
+    [amount] => 408000
+    [orderId] => 67efd359c9604
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67efd359c9604
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => payWithMethod
+    [signature] => 6876ab117ced7260e7edb171d1da8c192db80eadfbb6adb6dab4d28bf443e4b5
+)
+
+2025-04-04 19:40:59 - Raw Hash for Signature: accessKey=klm05TvNBzhg7h7j&amount=408000&extraData=&ipnUrl=http://localhost:3000/BanVeXemPhim/views/momo_notify.php&orderId=67efd359c9604&orderInfo=Thanh toan ve xem phim - Ma giao dich: 67efd359c9604&partnerCode=MOMOBKUN20180529&redirectUrl=http://localhost:3000/BanVeXemPhim/views/momo_return.php&requestId=1743770459-67efd35bce852&requestType=payWithMethod
+2025-04-04 19:42:55 - Request Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1743770575-67efd3cf2144d
+    [amount] => 158000
+    [orderId] => 67efd3cda53f3
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67efd3cda53f3
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => payWithMethod
+    [signature] => d3285f485d796e27d63765df3fe6febac4b0f1e0fc193ca3c1ed87066449794b
+)
+
+2025-04-04 19:42:55 - Raw Hash for Signature: accessKey=klm05TvNBzhg7h7j&amount=158000&extraData=&ipnUrl=http://localhost:3000/BanVeXemPhim/views/momo_notify.php&orderId=67efd3cda53f3&orderInfo=Thanh toan ve xem phim - Ma giao dich: 67efd3cda53f3&partnerCode=MOMOBKUN20180529&redirectUrl=http://localhost:3000/BanVeXemPhim/views/momo_return.php&requestId=1743770575-67efd3cf2144d&requestType=payWithMethod
+2025-04-04 19:45:43 - Request Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1743770743-67efd477a9589
+    [amount] => 287000
+    [orderId] => 67efd4768d8f0
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67efd4768d8f0
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => payWithMethod
+    [signature] => 30ee42686a81eafd9bebd05aa620e72c0aea7a38a5d5236cf16d5492bdbbb349
+)
+
+2025-04-04 19:45:43 - Raw Hash for Signature: accessKey=klm05TvNBzhg7h7j&amount=287000&extraData=&ipnUrl=http://localhost:3000/BanVeXemPhim/views/momo_notify.php&orderId=67efd4768d8f0&orderInfo=Thanh toan ve xem phim - Ma giao dich: 67efd4768d8f0&partnerCode=MOMOBKUN20180529&redirectUrl=http://localhost:3000/BanVeXemPhim/views/momo_return.php&requestId=1743770743-67efd477a9589&requestType=payWithMethod
+2025-04-04 19:48:34 - Request Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1743770914-67efd522f2773
+    [amount] => 408000
+    [orderId] => 67efd517e8089
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67efd517e8089
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => payWithMethod
+    [signature] => f5f60ca03e2a4b668c124672fcaf411d9d56c5dbe46a1de40c0cfad8f42197b1
+)
+
+2025-04-04 19:48:34 - Raw Hash for Signature: accessKey=klm05TvNBzhg7h7j&amount=408000&extraData=&ipnUrl=http://localhost:3000/BanVeXemPhim/views/momo_notify.php&orderId=67efd517e8089&orderInfo=Thanh toan ve xem phim - Ma giao dich: 67efd517e8089&partnerCode=MOMOBKUN20180529&redirectUrl=http://localhost:3000/BanVeXemPhim/views/momo_return.php&requestId=1743770914-67efd522f2773&requestType=payWithMethod
+2025-04-04 19:53:44 - Request Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1743771224-67efd658263da
+    [amount] => 550000
+    [orderId] => 67efd6557f1c4
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67efd6557f1c4
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => payWithMethod
+    [signature] => b8d0d4a515194f4465893ac6d5c8a0f37d96ffd065f843daae85bf95bc5ce84e
+)
+
+2025-04-04 19:53:44 - Raw Hash for Signature: accessKey=klm05TvNBzhg7h7j&amount=550000&extraData=&ipnUrl=http://localhost:3000/BanVeXemPhim/views/momo_notify.php&orderId=67efd6557f1c4&orderInfo=Thanh toan ve xem phim - Ma giao dich: 67efd6557f1c4&partnerCode=MOMOBKUN20180529&redirectUrl=http://localhost:3000/BanVeXemPhim/views/momo_return.php&requestId=1743771224-67efd658263da&requestType=payWithMethod
+2025-04-04 20:17:55 - Request Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1743772675-67efdc030082c
+    [amount] => 550000
+    [orderId] => 67efdc01c99b9
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67efdc01c99b9
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => payWithMethod
+    [signature] => 6d741b9eece51b8df5ec5e6bf015b5b49054d3a227106231b859cb4fcd92fe01
+)
+
+2025-04-04 20:17:55 - Raw Hash for Signature: accessKey=klm05TvNBzhg7h7j&amount=550000&extraData=&ipnUrl=http://localhost:3000/BanVeXemPhim/views/momo_notify.php&orderId=67efdc01c99b9&orderInfo=Thanh toan ve xem phim - Ma giao dich: 67efdc01c99b9&partnerCode=MOMOBKUN20180529&redirectUrl=http://localhost:3000/BanVeXemPhim/views/momo_return.php&requestId=1743772675-67efdc030082c&requestType=payWithMethod
+2025-04-04 21:42:34 - Request Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1743777754-67efefda35f0e
+    [amount] => 800000
+    [orderId] => 67efefb8cf71e
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67efefb8cf71e
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => payWithMethod
+    [signature] => 8572007c177c39fb01bcccf50804ecbdca7a56a0e11601c2e97dcdf77312b335
+)
+
+2025-04-04 21:42:34 - Raw Hash for Signature: accessKey=klm05TvNBzhg7h7j&amount=800000&extraData=&ipnUrl=http://localhost:3000/BanVeXemPhim/views/momo_notify.php&orderId=67efefb8cf71e&orderInfo=Thanh toan ve xem phim - Ma giao dich: 67efefb8cf71e&partnerCode=MOMOBKUN20180529&redirectUrl=http://localhost:3000/BanVeXemPhim/views/momo_return.php&requestId=1743777754-67efefda35f0e&requestType=payWithMethod
+2025-04-04 21:50:36 - Request Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1743778236-67eff1bc9606c
+    [amount] => 550000
+    [orderId] => 67eff1bb7d5a7
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67eff1bb7d5a7
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => payWithMethod
+    [signature] => 5172cceaa3deab4f7c109a310ae3d7488ea8a08b225c29201d4ae2b5deb1cb53
+)
+
+2025-04-04 21:50:36 - Raw Hash for Signature: accessKey=klm05TvNBzhg7h7j&amount=550000&extraData=&ipnUrl=http://localhost:3000/BanVeXemPhim/views/momo_notify.php&orderId=67eff1bb7d5a7&orderInfo=Thanh toan ve xem phim - Ma giao dich: 67eff1bb7d5a7&partnerCode=MOMOBKUN20180529&redirectUrl=http://localhost:3000/BanVeXemPhim/views/momo_return.php&requestId=1743778236-67eff1bc9606c&requestType=payWithMethod
+2025-04-07 12:38:56 - Request Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1744004336-67f364f0f3956
+    [amount] => 499000
+    [orderId] => 67f364ee9bd9b
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67f364ee9bd9b
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => payWithMethod
+    [signature] => 6dff6bbfb8d690c9466d81a710395290c29c92823c6dd3e3d41d2df3294b6a14
+)
+
+2025-04-07 12:38:56 - Raw Hash for Signature: accessKey=klm05TvNBzhg7h7j&amount=499000&extraData=&ipnUrl=http://localhost:3000/BanVeXemPhim/views/momo_notify.php&orderId=67f364ee9bd9b&orderInfo=Thanh toan ve xem phim - Ma giao dich: 67f364ee9bd9b&partnerCode=MOMOBKUN20180529&redirectUrl=http://localhost:3000/BanVeXemPhim/views/momo_return.php&requestId=1744004336-67f364f0f3956&requestType=payWithMethod
+2025-04-07 12:39:15 - Request Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [partnerName] => Test
+    [storeId] => MomoTestStore
+    [requestId] => 1744004355-67f36503b5ab7
+    [amount] => 499000
+    [orderId] => 67f365021d051
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67f365021d051
+    [redirectUrl] => http://localhost:3000/BanVeXemPhim/views/momo_return.php
+    [ipnUrl] => http://localhost:3000/BanVeXemPhim/views/momo_notify.php
+    [lang] => vi
+    [extraData] => 
+    [requestType] => payWithMethod
+    [signature] => 82b2e5350c0e7b151e432a9bdf8a289e1fe4b5943407dbdbdc7e3320d567c4f8
+)
+
+2025-04-07 12:39:15 - Raw Hash for Signature: accessKey=klm05TvNBzhg7h7j&amount=499000&extraData=&ipnUrl=http://localhost:3000/BanVeXemPhim/views/momo_notify.php&orderId=67f365021d051&orderInfo=Thanh toan ve xem phim - Ma giao dich: 67f365021d051&partnerCode=MOMOBKUN20180529&redirectUrl=http://localhost:3000/BanVeXemPhim/views/momo_return.php&requestId=1744004355-67f36503b5ab7&requestType=payWithMethod

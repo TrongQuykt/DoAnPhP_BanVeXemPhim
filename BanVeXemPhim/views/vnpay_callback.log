@@ -1,0 +1,95 @@
+
+
+[2025-03-30 18:01:38] Received VNPAY callback: Array
+(
+)
+
+
+[2025-03-30 18:01:58] Received VNPAY callback: Array
+(
+)
+
+
+[2025-03-30 18:02:26] Received VNPAY callback: Array
+(
+)
+    2025-03-30 19:33:36 - Received VNPAY callback: Array
+(
+    [vnp_Amount] => 41600000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14880857
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan ve xem phim - Ma giao dich: 67e980456080f
+    [vnp_PayDate] => 20250331003327
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => 2VK9KT2C
+    [vnp_TransactionNo] => 14880857
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 67e980456080f
+    [vnp_SecureHash] => 38cab0dd315c6f32a19a12fb7f4f5d3ac9b7615b0710d9d5fe6a28983319971625d35d193404aa3ba941f53e69e1e236fb9aa69edf79928712189394e9b76683
+)
+
+2025-03-30 19:52:42 - Received VNPAY callback: Array
+(
+    [vnp_Amount] => 925000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14880879
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan ve xem phim - Ma giao dich: 67e984c8d2ada
+    [vnp_PayDate] => 20250331005241
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => 2VK9KT2C
+    [vnp_TransactionNo] => 14880879
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 67e984c8d2ada
+    [vnp_SecureHash] => 6665bb981da240a3f5a89111924c9a45907b6fe5c0178c2115e134bdd56bac06d5bbcafdbad9795f0044fbaacdc900c2c29790985643110e37e31e61e528200f
+)
+
+2025-03-31 06:54:08 - Received VNPAY callback: Array
+(
+    [vnp_Amount] => 85000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14881476
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan ve xem phim - Ma giao dich: 67ea1fd761b97
+    [vnp_PayDate] => 20250331115407
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => 2VK9KT2C
+    [vnp_TransactionNo] => 14881476
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 67ea1fd761b97
+    [vnp_SecureHash] => 87d5139fe35f475da52032995fbacfb998ed4eb46807615a5c50428f742ff72a63b0728291eb53dfa8269892dce066fd7a9f94ed1414c4d621068749056a298a
+)
+
+2025-04-01 12:43:11 - Received VNPAY callback: Array
+(
+    [vnp_Amount] => 57800000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14884812
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan ve xem phim - Ma giao dich: 67ebc322c8ffd
+    [vnp_PayDate] => 20250401174311
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => 2VK9KT2C
+    [vnp_TransactionNo] => 14884812
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 67ebc322c8ffd
+    [vnp_SecureHash] => b39de3eb8137b118f32815a173f60d642465254291e200297cb26514523c0092d34065eb358003cae86e8af2f61c7dbbde0ed89357ca327341daeede4acf8ce2
+)
+
+2025-04-07 07:38:14 - Received VNPAY callback: Array
+(
+    [vnp_Amount] => 18000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14893233
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan ve xem phim - Ma giao dich: 67f364a631de0
+    [vnp_PayDate] => 20250407123818
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => 2VK9KT2C
+    [vnp_TransactionNo] => 14893233
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 67f364a631de0
+    [vnp_SecureHash] => a029188dab87281ef44bb3a3bc022dbbf1762c16c1f7954acef53c645c0f685578d2c990adea20d30076a4741c08b9636f73d1b8583fc65c28c7261d06e72361
+)
+

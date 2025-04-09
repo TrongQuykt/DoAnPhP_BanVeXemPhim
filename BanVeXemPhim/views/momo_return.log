@@ -1,0 +1,140 @@
+2025-04-04 14:46:37 - Return Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => 67efd4768d8f0
+    [requestId] => 1743770743-67efd477a9589
+    [amount] => 287000
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67efd4768d8f0
+    [orderType] => momo_wallet
+    [transId] => 4387991149
+    [resultCode] => 0
+    [message] => Successful.
+    [payType] => napas
+    [responseTime] => 1743770794150
+    [extraData] => 
+    [signature] => 9be2e2caec47ad32d4400afd84fe220f75566f398a5b89f20f4c75b00648212a
+)
+
+2025-04-04 14:46:37 - Raw Hash for Signature: accessKey=klm05TvNBzhg7h7j&amount=287000&extraData=&message=Successful.&orderId=67efd4768d8f0&orderInfo=Thanh toan ve xem phim - Ma giao dich: 67efd4768d8f0&orderType=momo_wallet&partnerCode=MOMOBKUN20180529&payType=napas&requestId=1743770743-67efd477a9589&responseTime=1743770794150&resultCode=0&transId=4387991149
+2025-04-04 14:46:37 - Computed Signature: 9be2e2caec47ad32d4400afd84fe220f75566f398a5b89f20f4c75b00648212a
+2025-04-04 14:46:37 - Received Signature: 9be2e2caec47ad32d4400afd84fe220f75566f398a5b89f20f4c75b00648212a
+2025-04-04 14:47:13 - Return Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => 67efd4768d8f0
+    [requestId] => 1743770743-67efd477a9589
+    [amount] => 287000
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67efd4768d8f0
+    [orderType] => momo_wallet
+    [transId] => 4387991149
+    [resultCode] => 0
+    [message] => Successful.
+    [payType] => napas
+    [responseTime] => 1743770794150
+    [extraData] => 
+    [signature] => 9be2e2caec47ad32d4400afd84fe220f75566f398a5b89f20f4c75b00648212a
+)
+
+2025-04-04 14:47:13 - Raw Hash for Signature: accessKey=klm05TvNBzhg7h7j&amount=287000&extraData=&message=Successful.&orderId=67efd4768d8f0&orderInfo=Thanh toan ve xem phim - Ma giao dich: 67efd4768d8f0&orderType=momo_wallet&partnerCode=MOMOBKUN20180529&payType=napas&requestId=1743770743-67efd477a9589&responseTime=1743770794150&resultCode=0&transId=4387991149
+2025-04-04 14:47:13 - Computed Signature: 9be2e2caec47ad32d4400afd84fe220f75566f398a5b89f20f4c75b00648212a
+2025-04-04 14:47:13 - Received Signature: 9be2e2caec47ad32d4400afd84fe220f75566f398a5b89f20f4c75b00648212a
+2025-04-04 14:49:57 - Return Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => 67efd517e8089
+    [requestId] => 1743770914-67efd522f2773
+    [amount] => 408000
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67efd517e8089
+    [orderType] => momo_wallet
+    [transId] => 4387953176
+    [resultCode] => 0
+    [message] => Successful.
+    [payType] => napas
+    [responseTime] => 1743770994757
+    [extraData] => 
+    [signature] => 9afc14eb6a66902582cc8ed1b11acaf304c6e658ff9f9d04de362504f8833519
+)
+
+2025-04-04 14:49:57 - Raw Hash for Signature: accessKey=klm05TvNBzhg7h7j&amount=408000&extraData=&message=Successful.&orderId=67efd517e8089&orderInfo=Thanh toan ve xem phim - Ma giao dich: 67efd517e8089&orderType=momo_wallet&partnerCode=MOMOBKUN20180529&payType=napas&requestId=1743770914-67efd522f2773&responseTime=1743770994757&resultCode=0&transId=4387953176
+2025-04-04 14:49:57 - Computed Signature: 9afc14eb6a66902582cc8ed1b11acaf304c6e658ff9f9d04de362504f8833519
+2025-04-04 14:49:57 - Received Signature: 9afc14eb6a66902582cc8ed1b11acaf304c6e658ff9f9d04de362504f8833519
+2025-04-04 14:54:48 - Return Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => 67efd6557f1c4
+    [requestId] => 1743771224-67efd658263da
+    [amount] => 550000
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67efd6557f1c4
+    [orderType] => momo_wallet
+    [transId] => 4387886159
+    [resultCode] => 0
+    [message] => Successful.
+    [payType] => napas
+    [responseTime] => 1743771285460
+    [extraData] => 
+    [signature] => da0570aafb0067ed7cd3447dbfef8de61a63e51fe27e05ec96c9dcd95e0de779
+)
+
+2025-04-04 14:54:48 - Raw Hash for Signature: accessKey=klm05TvNBzhg7h7j&amount=550000&extraData=&message=Successful.&orderId=67efd6557f1c4&orderInfo=Thanh toan ve xem phim - Ma giao dich: 67efd6557f1c4&orderType=momo_wallet&partnerCode=MOMOBKUN20180529&payType=napas&requestId=1743771224-67efd658263da&responseTime=1743771285460&resultCode=0&transId=4387886159
+2025-04-04 14:54:48 - Computed Signature: da0570aafb0067ed7cd3447dbfef8de61a63e51fe27e05ec96c9dcd95e0de779
+2025-04-04 14:54:48 - Received Signature: da0570aafb0067ed7cd3447dbfef8de61a63e51fe27e05ec96c9dcd95e0de779
+2025-04-04 16:43:53 - Return Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => 67efefb8cf71e
+    [requestId] => 1743777754-67efefda35f0e
+    [amount] => 800000
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67efefb8cf71e
+    [orderType] => momo_wallet
+    [transId] => 4387955465
+    [resultCode] => 0
+    [message] => Successful.
+    [payType] => napas
+    [responseTime] => 1743777830860
+    [extraData] => 
+    [signature] => 5a604441e806c0d42b9dceb8c316cb87bda8536318f86f98bbc9798077a68cb2
+)
+
+2025-04-04 16:43:53 - Raw Hash for Signature: accessKey=klm05TvNBzhg7h7j&amount=800000&extraData=&message=Successful.&orderId=67efefb8cf71e&orderInfo=Thanh toan ve xem phim - Ma giao dich: 67efefb8cf71e&orderType=momo_wallet&partnerCode=MOMOBKUN20180529&payType=napas&requestId=1743777754-67efefda35f0e&responseTime=1743777830860&resultCode=0&transId=4387955465
+2025-04-04 16:43:53 - Computed Signature: 5a604441e806c0d42b9dceb8c316cb87bda8536318f86f98bbc9798077a68cb2
+2025-04-04 16:43:53 - Received Signature: 5a604441e806c0d42b9dceb8c316cb87bda8536318f86f98bbc9798077a68cb2
+2025-04-04 16:51:35 - Return Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => 67eff1bb7d5a7
+    [requestId] => 1743778236-67eff1bc9606c
+    [amount] => 550000
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67eff1bb7d5a7
+    [orderType] => momo_wallet
+    [transId] => 4387888995
+    [resultCode] => 0
+    [message] => Successful.
+    [payType] => napas
+    [responseTime] => 1743778292176
+    [extraData] => 
+    [signature] => b828935095cf6ddd9c92640820c24bd8b7c3f93c6f16da5cc83c81ba9beb0f28
+)
+
+2025-04-04 16:51:35 - Raw Hash for Signature: accessKey=klm05TvNBzhg7h7j&amount=550000&extraData=&message=Successful.&orderId=67eff1bb7d5a7&orderInfo=Thanh toan ve xem phim - Ma giao dich: 67eff1bb7d5a7&orderType=momo_wallet&partnerCode=MOMOBKUN20180529&payType=napas&requestId=1743778236-67eff1bc9606c&responseTime=1743778292176&resultCode=0&transId=4387888995
+2025-04-04 16:51:35 - Computed Signature: b828935095cf6ddd9c92640820c24bd8b7c3f93c6f16da5cc83c81ba9beb0f28
+2025-04-04 16:51:35 - Received Signature: b828935095cf6ddd9c92640820c24bd8b7c3f93c6f16da5cc83c81ba9beb0f28
+2025-04-07 07:40:46 - Return Data: Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => 67f365021d051
+    [requestId] => 1744004355-67f36503b5ab7
+    [amount] => 499000
+    [orderInfo] => Thanh toan ve xem phim - Ma giao dich: 67f365021d051
+    [orderType] => momo_wallet
+    [transId] => 4388957883
+    [resultCode] => 0
+    [message] => Successful.
+    [payType] => napas
+    [responseTime] => 1744004443662
+    [extraData] => 
+    [signature] => b7cabe57820c8470219a6a4a40c65beaa3f868f159b2a00e31a64c952e50e077
+)
+
+2025-04-07 07:40:46 - Raw Hash for Signature: accessKey=klm05TvNBzhg7h7j&amount=499000&extraData=&message=Successful.&orderId=67f365021d051&orderInfo=Thanh toan ve xem phim - Ma giao dich: 67f365021d051&orderType=momo_wallet&partnerCode=MOMOBKUN20180529&payType=napas&requestId=1744004355-67f36503b5ab7&responseTime=1744004443662&resultCode=0&transId=4388957883
+2025-04-07 07:40:46 - Computed Signature: b7cabe57820c8470219a6a4a40c65beaa3f868f159b2a00e31a64c952e50e077
+2025-04-07 07:40:46 - Received Signature: b7cabe57820c8470219a6a4a40c65beaa3f868f159b2a00e31a64c952e50e077

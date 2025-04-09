@@ -1,0 +1,375 @@
+2025-03-31 00:32:54 - Received POST Data: Array
+(
+    [totalPrice] => 416000
+    [orderId] => 67e980456080f
+    [payment_method] => vnpay
+)
+
+2025-03-31 00:32:54 - Total Price: 416000
+2025-03-31 00:32:54 - VNPAY Redirect URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=41600000&vnp_Command=pay&vnp_CreateDate=20250331003254&vnp_CurrCode=VND&vnp_ExpireDate=20250331010254&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+ve+xem+phim+-+Ma+giao+dich%3A+67e980456080f&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%3A3000%2FBanVeXemPhim%2Fviews%2Fvnpay_return.php&vnp_TmnCode=2VK9KT2C&vnp_TxnRef=67e980456080f&vnp_Version=2.1.0&vnp_SecureHash=6254dd97b367797ed8e091b48fef4d21e5f07ab482abb028cf9869e0f6ce57adeaf54e07f23ea3ca93ad023c2b87e9e8415a48003e02a1293f3bcda7bdb09796
+2025-03-31 00:52:10 - Received POST Data: Array
+(
+    [totalPrice] => 9250000
+    [orderId] => 67e984c8d2ada
+    [payment_method] => vnpay
+)
+
+2025-03-31 00:52:10 - Total Price: 9250000
+2025-03-31 00:52:10 - VNPAY Redirect URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=925000000&vnp_Command=pay&vnp_CreateDate=20250331005210&vnp_CurrCode=VND&vnp_ExpireDate=20250331012210&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+ve+xem+phim+-+Ma+giao+dich%3A+67e984c8d2ada&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%3A3000%2FBanVeXemPhim%2Fviews%2Fvnpay_return.php&vnp_TmnCode=2VK9KT2C&vnp_TxnRef=67e984c8d2ada&vnp_Version=2.1.0&vnp_SecureHash=1e10d4a54b36e6ab9cf4087de1c71da22df2873469aaf69a4aa8af4aedc4bdf4af41ff736f99a04c1259f14ebd3dd453763c39c34e8865ac2f100a2164a9ca82
+2025-03-31 11:53:45 - Received POST Data: Array
+(
+    [totalPrice] => 850000
+    [orderId] => 67ea1fd761b97
+    [payment_method] => vnpay
+)
+
+2025-03-31 11:53:45 - Total Price: 850000
+2025-03-31 11:53:45 - VNPAY Redirect URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=85000000&vnp_Command=pay&vnp_CreateDate=20250331115345&vnp_CurrCode=VND&vnp_ExpireDate=20250331122345&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+ve+xem+phim+-+Ma+giao+dich%3A+67ea1fd761b97&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%3A3000%2FBanVeXemPhim%2Fviews%2Fvnpay_return.php&vnp_TmnCode=2VK9KT2C&vnp_TxnRef=67ea1fd761b97&vnp_Version=2.1.0&vnp_SecureHash=e70ee063192a40c6aaf776aaf58d0fbdfdb17a90760fbc773334bacd50b0a2559c6737e39dcc6d3511c27139f4edcddb6b813604f9f44233d1c63c0057a1d5b9
+2025-04-01 17:42:43 - Received POST Data: Array
+(
+    [totalPrice] => 578000
+    [orderId] => 67ebc322c8ffd
+    [payment_method] => vnpay
+)
+
+2025-04-01 17:42:43 - Total Price: 578000
+2025-04-01 17:42:43 - VNPAY Redirect URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=57800000&vnp_Command=pay&vnp_CreateDate=20250401174243&vnp_CurrCode=VND&vnp_ExpireDate=20250401181243&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+ve+xem+phim+-+Ma+giao+dich%3A+67ebc322c8ffd&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%3A3000%2FBanVeXemPhim%2Fviews%2Fvnpay_return.php&vnp_TmnCode=2VK9KT2C&vnp_TxnRef=67ebc322c8ffd&vnp_Version=2.1.0&vnp_SecureHash=5656aea527f9f2713bb7906a45f839482eb5053b7d38c943954b8858a4a39c5713d7bb11c519d50dd0c5f475f2632c553e6e389583f93496b0363ac18f03c0ff
+2025-04-04 18:24:29 - Received POST Data: Array
+(
+    [totalPrice] => 550000
+    [orderId] => 67efc168a1da5
+    [payment_method] => momo
+)
+
+2025-04-04 18:24:29 - Total Price: 550000
+2025-04-04 18:24:31 - Received POST Data: Array
+(
+    [totalPrice] => 300000
+    [orderId] => 67efc16d73c07
+    [payment_method] => momo
+)
+
+2025-04-04 18:24:31 - Total Price: 300000
+2025-04-04 18:26:56 - Received POST Data: Array
+(
+    [totalPrice] => 374000
+    [orderId] => 67efc1f89f826
+    [payment_method] => momo
+)
+
+2025-04-04 18:26:56 - Total Price: 374000
+2025-04-04 18:31:01 - Received POST Data: Array
+(
+    [totalPrice] => 550000
+    [orderId] => 67efc2f44b9ee
+    [payment_method] => momo
+)
+
+2025-04-04 18:31:01 - Total Price: 550000
+2025-04-04 18:34:18 - Received POST Data: Array
+(
+    [totalPrice] => 550000
+    [orderId] => 67efc3b92ec62
+    [payment_method] => momo
+)
+
+2025-04-04 18:34:18 - Total Price: 550000
+2025-04-04 18:39:20 - Received POST Data: Array
+(
+    [totalPrice] => 300000
+    [orderId] => 67efc4e792d78
+    [payment_method] => momo
+)
+
+2025-04-04 18:39:20 - Total Price: 300000
+2025-04-04 18:51:51 - Received POST Data: Array
+(
+    [totalPrice] => 490000
+    [orderId] => 67efc7d52ef75
+    [payment_method] => momo
+)
+
+2025-04-04 18:51:51 - Total Price: 490000
+2025-04-04 18:56:01 - Received POST Data: Array
+(
+    [totalPrice] => 550000
+    [orderId] => 67efc8d053470
+    [payment_method] => momo
+)
+
+2025-04-04 18:56:01 - Total Price: 550000
+2025-04-04 19:07:29 - Received POST Data: Array
+(
+    [totalPrice] => 550000
+    [orderId] => 67efcb7fd0247
+    [payment_method] => momo
+)
+
+2025-04-04 19:07:29 - Total Price: 550000
+2025-04-04 19:14:49 - Received POST Data: Array
+(
+    [totalPrice] => 550000
+    [orderId] => 67efcd37a032a
+    [payment_method] => momo
+)
+
+2025-04-04 19:14:49 - Total Price: 550000
+2025-04-04 19:24:50 - Received POST Data: Array
+(
+    [totalPrice] => 408000
+    [orderId] => 67efcf90b00d2
+    [payment_method] => momo
+)
+
+2025-04-04 19:24:50 - Total Price: 408000
+2025-04-04 19:27:56 - Received POST Data: Array
+(
+    [totalPrice] => 408000
+    [orderId] => 67efd04b4c12a
+    [payment_method] => momo
+)
+
+2025-04-04 19:27:56 - Total Price: 408000
+2025-04-04 19:40:59 - Received POST Data: Array
+(
+    [totalPrice] => 408000
+    [orderId] => 67efd359c9604
+    [payment_method] => momo
+)
+
+2025-04-04 19:40:59 - Total Price: 408000
+2025-04-04 19:42:55 - Received POST Data: Array
+(
+    [totalPrice] => 158000
+    [orderId] => 67efd3cda53f3
+    [payment_method] => momo
+)
+
+2025-04-04 19:42:55 - Total Price: 158000
+2025-04-04 19:45:43 - Received POST Data: Array
+(
+    [totalPrice] => 287000
+    [orderId] => 67efd4768d8f0
+    [payment_method] => momo
+)
+
+2025-04-04 19:45:43 - Total Price: 287000
+2025-04-04 19:48:34 - Received POST Data: Array
+(
+    [totalPrice] => 408000
+    [orderId] => 67efd517e8089
+    [payment_method] => momo
+)
+
+2025-04-04 19:48:34 - Total Price: 408000
+2025-04-04 19:53:44 - Received POST Data: Array
+(
+    [totalPrice] => 550000
+    [orderId] => 67efd6557f1c4
+    [payment_method] => momo
+)
+
+2025-04-04 19:53:44 - Total Price: 550000
+2025-04-04 20:10:11 - Received POST Data: Array
+(
+    [totalPrice] => 18250000
+    [orderId] => 67efda2bc01d5
+    [payment_method] => vnpay
+)
+
+2025-04-04 20:10:11 - Total Price: 18250000
+2025-04-04 20:10:11 - VNPAY Redirect URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=1825000000&vnp_Command=pay&vnp_CreateDate=20250404201011&vnp_CurrCode=VND&vnp_ExpireDate=20250404204011&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+ve+xem+phim+-+Ma+giao+dich%3A+67efda2bc01d5&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%3A3000%2FBanVeXemPhim%2Fviews%2Fvnpay_return.php&vnp_TmnCode=2VK9KT2C&vnp_TxnRef=67efda2bc01d5&vnp_Version=2.1.0&vnp_SecureHash=92559c0c0efd655f05d9a0f29e6855414d53fd7930bf18d90f8b71812108650b4c2f30ba900e501eb86b8196149075a4c9a2ec26fb0750da6fd8f45c5c771516
+2025-04-04 20:12:08 - Received POST Data: Array
+(
+    [totalPrice] => 18250000
+    [orderId] => 67efdaa6e289f
+    [payment_method] => vnpay
+)
+
+2025-04-04 20:12:08 - Total Price: 18250000
+2025-04-04 20:12:08 - VNPAY Redirect URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=1825000000&vnp_Command=pay&vnp_CreateDate=20250404201208&vnp_CurrCode=VND&vnp_ExpireDate=20250404204208&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+ve+xem+phim+-+Ma+giao+dich%3A+67efdaa6e289f&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%3A3000%2FBanVeXemPhim%2Fviews%2Fvnpay_return.php&vnp_TmnCode=2VK9KT2C&vnp_TxnRef=67efdaa6e289f&vnp_Version=2.1.0&vnp_SecureHash=74da746446b396b79c71bdc0508c323f542d2048b75ef729e6a064e098aeb6c2ea06bb2450596b69376aed35800e257bed8a10563d213072b67a97a5177b85c2
+2025-04-04 20:12:56 - Received POST Data: Array
+(
+    [totalPrice] => 18250000
+    [orderId] => 67efdad76eae1
+    [payment_method] => vnpay
+)
+
+2025-04-04 20:12:56 - Total Price: 18250000
+2025-04-04 20:12:56 - VNPAY Redirect URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=1825000000&vnp_Command=pay&vnp_CreateDate=20250404201256&vnp_CurrCode=VND&vnp_ExpireDate=20250404204256&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+ve+xem+phim+-+Ma+giao+dich%3A+67efdad76eae1&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%3A3000%2FBanVeXemPhim%2Fviews%2Fvnpay_return.php&vnp_TmnCode=2VK9KT2C&vnp_TxnRef=67efdad76eae1&vnp_Version=2.1.0&vnp_SecureHash=b51a2a825904ff15a9fc74087edff5b57086e914b7c6a1a21be9237a154cf45ae5311849b4e247568e17dbd8ec06b93b6667f4968474ea1f7c92b386df0f6751
+2025-04-04 15:13:46 - Received POST Data: Array
+(
+    [totalPrice] => 18250000
+    [orderId] => 67efdb08ec665
+    [payment_method] => vnpay
+)
+
+2025-04-04 15:13:46 - Total Price: 18250000
+2025-04-04 15:13:46 - VNPAY Redirect URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=1825000000&vnp_Command=pay&vnp_CreateDate=20250404151346&vnp_CurrCode=VND&vnp_ExpireDate=20250404154346&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+ve+xem+phim+-+Ma+giao+dich%3A+67efdb08ec665&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%3A3000%2FBanVeXemPhim%2Fviews%2Fvnpay_return.php&vnp_TmnCode=2VK9KT2C&vnp_TxnRef=67efdb08ec665&vnp_Version=2.1.0&vnp_SecureHash=bbeade346d1ac779e20e0cfd71e5808dbdbeae0c576c5e6a1397b200cc88b9420ab0cc40dab6a6e2adcaa79587b878cbffcb51b20596d8fd574f4c17beaaf471
+2025-04-04 20:14:12 - Received POST Data: Array
+(
+    [totalPrice] => 550000
+    [orderId] => 67efdb2309860
+    [payment_method] => vnpay
+)
+
+2025-04-04 20:14:12 - Total Price: 550000
+2025-04-04 20:14:12 - VNPAY Redirect URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=55000000&vnp_Command=pay&vnp_CreateDate=20250404201412&vnp_CurrCode=VND&vnp_ExpireDate=20250404204412&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+ve+xem+phim+-+Ma+giao+dich%3A+67efdb2309860&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%3A3000%2FBanVeXemPhim%2Fviews%2Fvnpay_return.php&vnp_TmnCode=2VK9KT2C&vnp_TxnRef=67efdb2309860&vnp_Version=2.1.0&vnp_SecureHash=1e33575da55adb5977c90131707dbd61edc998b713a12e73df65c8f13f095360032506d41cfb95447fc048bf50dad36b25114337e29a85bc496ae9fd37349fdd
+2025-04-04 20:17:55 - Received POST Data: Array
+(
+    [totalPrice] => 550000
+    [orderId] => 67efdc01c99b9
+    [payment_method] => momo
+)
+
+2025-04-04 20:17:55 - Total Price: 550000
+2025-04-04 20:20:15 - Received POST Data: Array
+(
+    [totalPrice] => 300000
+    [orderId] => 67efdc8e14c50
+    [payment_method] => vnpay
+)
+
+2025-04-04 20:20:15 - Total Price: 300000
+2025-04-04 20:20:15 - VNPAY Redirect URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=30000000&vnp_Command=pay&vnp_CreateDate=20250404202015&vnp_CurrCode=VND&vnp_ExpireDate=20250404205015&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+ve+xem+phim+-+Ma+giao+dich%3A+67efdc8e14c50&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%3A3000%2FBanVeXemPhim%2Fviews%2Fvnpay_return.php&vnp_TmnCode=2VK9KT2C&vnp_TxnRef=67efdc8e14c50&vnp_Version=2.1.0&vnp_SecureHash=4cc35c87b4c046effa4d457960b04db8329313a494b40f2c2d01a5c50aa3fffb10ebfb73e18c5ae46e628212cc7570818e3236e4429428a4621f3ef50a6c9e97
+2025-04-04 20:32:07 - VNPAY Redirect URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=40800000&vnp_Command=pay&vnp_CreateDate=20250404203207&vnp_CurrCode=VND&vnp_ExpireDate=20250404204707&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+ve+xem+phim+-+Ma+giao+dich%3A+ORDER_1743773527_67efdf5623349&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%3A3000%2FBanVeXemPhim%2Fviews%2Fvnpay_return.php&vnp_TmnCode=2VK9KT2C&vnp_TxnRef=ORDER_1743773527_67efdf5623349&vnp_Version=2.1.0&vnp_SecureHash=2658b456c601a7d274bfe03edc5699f7c60e2a989dd2b049bfc5addfa5388c8878a6f20c3608655a062ab89a4537cf821b864eb0e791236f2fedf8b6e05cd49e
+2025-04-04 20:34:42 - Received POST Data: Array
+(
+    [totalPrice] => 150000
+    [orderId] => 67efdff046dc3
+    [payment_method] => vnpay
+)
+
+2025-04-04 20:34:42 - Total Price: 150000
+2025-04-04 20:34:42 - VNPAY Redirect URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=15000000&vnp_Command=pay&vnp_CreateDate=20250404203442&vnp_CurrCode=VND&vnp_ExpireDate=20250404210442&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+ve+xem+phim+-+Ma+giao+dich%3A+67efdff046dc3&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%3A3000%2FBanVeXemPhim%2Fviews%2Fvnpay_return.php&vnp_TmnCode=2VK9KT2C&vnp_TxnRef=67efdff046dc3&vnp_Version=2.1.0&vnp_SecureHash=5d8175e51ad669f2e56dd7afb0e0cf239eb614e58cbbbf02e1e17eed213fcb67a2f4c05dc5ffc36796a30655bf4f047b0c1a7f4140fdf3080254c9f1888e97f8
+2025-04-04 21:42:34 - Received POST Data: Array
+(
+    [totalPrice] => 800000
+    [orderId] => 67efefb8cf71e
+    [payment_method] => momo
+)
+
+2025-04-04 21:42:34 - Total Price: 800000
+2025-04-04 21:50:36 - Received POST Data: Array
+(
+    [totalPrice] => 550000
+    [orderId] => 67eff1bb7d5a7
+    [payment_method] => momo
+)
+
+2025-04-04 21:50:36 - Total Price: 550000
+2025-04-07 12:20:42 - Received POST Data: Array
+(
+    [totalPrice] => 408000
+    [orderId] => 67f360a4d2a17
+    [payment_method] => paypal
+)
+
+2025-04-07 12:20:42 - Total Price: 408000
+2025-04-07 12:20:44 - PayPal Redirect URL: https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-0X810594DG172025F
+2025-04-07 12:22:35 - Received POST Data: Array
+(
+    [totalPrice] => 408000
+    [orderId] => 67f3611a1074f
+    [payment_method] => paypal
+)
+
+2025-04-07 12:22:35 - Total Price: 408000
+2025-04-07 12:22:37 - PayPal Redirect URL: https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-80G469711R482143A
+2025-04-07 12:31:10 - Received POST Data: Array
+(
+    [totalPrice] => 320000
+    [orderId] => 67f3631d1cda7
+    [payment_method] => paypal
+)
+
+2025-04-07 12:31:10 - Total Price: 320000
+2025-04-07 12:31:12 - PayPal Redirect URL: https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-3H520787BS5086334
+2025-04-07 12:32:56 - Received POST Data: Array
+(
+    [totalPrice] => 300000
+    [orderId] => 67f36386e013f
+    [payment_method] => paypal
+)
+
+2025-04-07 12:32:56 - Total Price: 300000
+2025-04-07 12:32:58 - PayPal Redirect URL: https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-9BU73743VM7956508
+2025-04-07 12:36:37 - Received POST Data: Array
+(
+    [totalPrice] => 9250000
+    [orderId] => 67f364629f33a
+    [payment_method] => paypal
+)
+
+2025-04-07 12:36:37 - Total Price: 9250000
+2025-04-07 12:36:39 - PayPal Redirect URL: https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-66M184213F357093B
+2025-04-07 12:37:43 - Received POST Data: Array
+(
+    [totalPrice] => 180000
+    [orderId] => 67f364a631de0
+    [payment_method] => vnpay
+)
+
+2025-04-07 12:37:43 - Total Price: 180000
+2025-04-07 12:37:43 - VNPAY Redirect URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=18000000&vnp_Command=pay&vnp_CreateDate=20250407123743&vnp_CurrCode=VND&vnp_ExpireDate=20250407130743&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+ve+xem+phim+-+Ma+giao+dich%3A+67f364a631de0&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%3A3000%2FBanVeXemPhim%2Fviews%2Fvnpay_return.php&vnp_TmnCode=2VK9KT2C&vnp_TxnRef=67f364a631de0&vnp_Version=2.1.0&vnp_SecureHash=9c5c486ee48d87c2520403d38a5bedbca9909483b929a4e0f7fd78267957ccd4792b2350fbb1b29ca1cc1cb0d408f6c704b26a5b840256e627bdfac773ecbdd4
+2025-04-07 12:38:56 - Received POST Data: Array
+(
+    [totalPrice] => 499000
+    [orderId] => 67f364ee9bd9b
+    [payment_method] => momo
+)
+
+2025-04-07 12:38:56 - Total Price: 499000
+2025-04-07 12:39:15 - Received POST Data: Array
+(
+    [totalPrice] => 499000
+    [orderId] => 67f365021d051
+    [payment_method] => momo
+)
+
+2025-04-07 12:39:15 - Total Price: 499000
+2025-04-07 12:48:12 - Received POST Data: Array
+(
+    [totalPrice] => 540000
+    [orderId] => 67f36719df900
+    [payment_method] => stripe
+)
+
+2025-04-07 12:48:12 - Total Price: 540000
+2025-04-07 12:48:13 - Stripe Error: The Checkout Session's total amount must convert to at least 50 cents. ₫2,348 converts to approximately $0.09.
+2025-04-07 12:48:28 - Received POST Data: Array
+(
+    [totalPrice] => 540000
+    [orderId] => 67f3672b14ade
+    [payment_method] => stripe
+)
+
+2025-04-07 12:48:28 - Total Price: 540000
+2025-04-07 12:48:29 - Stripe Redirect URL: https://checkout.stripe.com/c/pay/cs_test_a1Eai0SFfkM907LoORFR3mSO9ulOn3109fsucVQ7vqfeUW1eH2Y1ppd1zg#fidkdWxOYHwnPyd1blpxYHZxWjA0V0cyc09DZGQ3f2ZqbnxSV04zY1N1QGRNazR3dl9hNUh2QHZNdj00fWZ9MnxJbEdLQn1AT2JtX0FHb0Y0XGlccG99NzFuRDddMVF0VndSM2RXUTVdNUBgNTVVQnxEc05SVScpJ2N3amhWYHdzYHcnP3F3cGApJ2lkfGpwcVF8dWAnPyd2bGtiaWBabHFgaCcpJ2BrZGdpYFVpZGZgbWppYWB3dic%2FcXdwYHgl
+2025-04-07 12:48:39 - Received POST Data: Array
+(
+    [totalPrice] => 540000
+    [orderId] => 67f3672b14ade
+    [payment_method] => stripe
+)
+
+2025-04-07 12:48:39 - Total Price: 540000
+2025-04-07 12:48:40 - Stripe Redirect URL: https://checkout.stripe.com/c/pay/cs_test_a1x53jJyxH9os2UUtsWwjMGz9J1WqMSyVdRhmXpYplHGzV45K53R6Vo0Sp#fidkdWxOYHwnPyd1blpxYHZxWjA0V0cyc09DZGQ3f2ZqbnxSV04zY1N1QGRNazR3dl9hNUh2QHZNdj00fWZ9MnxJbEdLQn1AT2JtX0FHb0Y0XGlccG99NzFuRDddMVF0VndSM2RXUTVdNUBgNTVVQnxEc05SVScpJ2N3amhWYHdzYHcnP3F3cGApJ2lkfGpwcVF8dWAnPyd2bGtiaWBabHFgaCcpJ2BrZGdpYFVpZGZgbWppYWB3dic%2FcXdwYHgl
+2025-04-07 12:50:43 - Received POST Data: Array
+(
+    [totalPrice] => 540000
+    [orderId] => 67f367b2b69ec
+    [payment_method] => stripe
+)
+
+2025-04-07 12:50:43 - Total Price: 540000
+2025-04-07 12:50:44 - Stripe Redirect URL: https://checkout.stripe.com/c/pay/cs_test_a19M1DIFOGHnc6Q7UkH7QisIitHFov68VbX3EBPWPoTZKmDu52KAXCyrzb#fidkdWxOYHwnPyd1blpxYHZxWjA0V0cyc09DZGQ3f2ZqbnxSV04zY1N1QGRNazR3dl9hNUh2QHZNdj00fWZ9MnxJbEdLQn1AT2JtX0FHb0Y0XGlccG99NzFuRDddMVF0VndSM2RXUTVdNUBgNTVVQnxEc05SVScpJ2N3amhWYHdzYHcnP3F3cGApJ2lkfGpwcVF8dWAnPyd2bGtiaWBabHFgaCcpJ2BrZGdpYFVpZGZgbWppYWB3dic%2FcXdwYHgl
+2025-04-08 22:55:17 - Received POST Data: Array
+(
+    [totalPrice] => 600000
+    [orderId] => 67f546db07a64
+    [payment_method] => paypal
+)
+
+2025-04-08 22:55:17 - Total Price: 600000
+2025-04-08 22:55:20 - PayPal Redirect URL: https://www.sandbox.paypal.com/cgi-bin/webscr?cmd=_express-checkout&token=EC-93V213951X681221P

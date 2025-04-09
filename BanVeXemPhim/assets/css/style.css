@@ -1,0 +1,681 @@
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+
+/* Hide scrollbar by default */
+::-webkit-scrollbar {
+    width: 0;
+    /* Hide scrollbar width */
+    transition: all .3s ease;
+}
+
+small{
+    font-style: italic;
+}
+
+.word {
+    position:absolute;
+    text-transform: uppercase;
+    font-size: 2rem;
+    font-weight: bolder;
+    width: max-content;
+    opacity: 0;
+}
+
+ /* Ẩn thanh điều khiển mặc định */
+ .audio-player {
+     display: none;
+ }
+
+ /* Hiển thị nút bật/tắt */
+button.play-button{
+     cursor: pointer;
+     background-color: rgb(85, 0, 182);
+     color: white;
+     border: none;
+     padding: 5px 10px;
+     font-size: 20px;
+     border-radius: 50%;
+ }
+
+.letter {
+    display: inline-block;
+    position: relative;
+    transform-origin: 50% 50% 25px;
+}
+
+.letter.out {
+    transform: rotateX(90deg);
+    transition: transform 0.32s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+}
+
+.letter.behind {
+    transform: rotateX(-90deg);
+}
+
+.letter.in {
+    transform: rotateX(0deg);
+    transition: transform 0.38s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.wisteria {
+    color: #540ac3;
+}
+
+.belize {
+    color: #2980b9;
+}
+
+.pomegranate {
+    color: #31abb7;
+}
+
+.green {
+    color: #7334bf;
+}
+
+.midnight {
+    color: #02cf09;
+}
+
+
+.btn-add{
+    align-items: center;
+    appearance: none;
+    background-color: #6a00ff;
+    border-radius: 4px;
+    border-width: 0;
+    box-shadow: rgba(45, 35, 66, 0.4) 0 2px 4px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+    box-sizing: border-box;
+    color: #ffffff;
+    cursor: pointer;
+    display: inline-flex;
+    height: 48px;
+    justify-content: center;
+    line-height: 1;
+    list-style: none;
+    overflow: hidden;
+    position: relative;
+    text-align: left;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    will-change: box-shadow, transform;
+    font-size: 18px;
+}
+
+
+.button-30:focus {
+    box-shadow: #D6D6E7 0 0 0 1.5px inset, rgba(45, 35, 66, 0.4) 0 2px 4px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+}
+
+.button-30:hover {
+    box-shadow: rgba(45, 35, 66, 0.4) 0 4px 8px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+    transform: translateY(-2px);
+}
+
+.button-30:active {
+    box-shadow: #D6D6E7 0 3px 7px inset;
+    transform: translateY(2px);
+}
+
+.page-item .page-link{
+transition: background-image ease-in-out 1s;
+}
+.page-item .page-link,
+.page-item{
+    padding: 2px;
+
+}
+.page-item .page-link,
+.page-item a{
+    background-color: #ffffff;
+    width: 36px;
+    border-radius: 55% !important;
+
+}
+
+.page-item .page-link:hover {
+    background-image: linear-gradient(310deg, #141727, #3a416f);
+    color: white;
+}
+.page-item.active .page-link{
+    border: 2px solid black !important;
+}
+
+.carousel-item
+{
+    height: 30rem;
+
+}
+ .input-group-text{
+    border: none;
+ }
+ .input-group .iconEye {
+     position: absolute;
+     border: none;
+     background: transparent;
+     padding: 10px;
+     right: 0;
+     font-size: 15px;
+     box-shadow: none;
+     /* Đặt icon ở phía bên phải của ô input */
+     top: 50%;
+     transform: translateY(-50%);
+     cursor: pointer;
+     z-index: 999;
+     /* Đảm bảo icon không bị che khuất */
+ }
+.btn:hover {
+
+    background-position: center right;
+    /* change the direction of the change here */
+}
+
+/* navbar */
+.dropdown-css a{
+    color: #000000a1;
+    transition: all .1s ease-in-out;
+}
+.dropdown-css a{
+    text-decoration: none;
+}
+.dropdown-css a:hover{
+    border-left: 4px solid #9156b8;
+    text-decoration: none;
+}
+
+.dropdown-css .dropdown-item:hover{
+    background: #4dafff13;
+}
+/* Show film styles */
+.vertical-bar {
+    color: #333;
+    font-weight: bold;
+    margin-right: 8px;
+}
+
+/* Show film styles */
+.movie-card {
+    position: relative;
+    overflow: hidden;
+    border: none;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+}
+
+.movie-card img {
+    width: 100%;
+    height: 330px;
+    border-radius: 8px;
+    transition: 0.3s ease;
+}
+
+.movie-card:hover img,
+.movie-card:hover .movie-age {
+    filter: blur(2px) brightness(0.7);
+    /* Mờ ảnh và làm tối khi hover */
+}
+
+.movie-age {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 0.9em;
+    background: #dc3545;
+    padding: 2px 5px;
+    border-radius: 3px;
+    color: white;
+    font-weight: bold;
+    transition: 0.3s ease;
+}
+
+.movie-info {
+    text-align: center;
+    margin-top: 10px;
+    color: #333;
+    font-size: 1.1em;
+}
+
+.movie-title {
+    font-weight: bold;
+    color: #ffffff;
+}
+
+/* Nút Mua Vé chung */
+.buy-ticket {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: none;
+    /* Mặc định ẩn cho các kích thước lớn */
+    background: linear-gradient(90deg, var(--c1, #15036c), var(--c2, #7f33ff) 51%, var(--c1, #15036c)) var(--x, 0)/ 200%;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 5px;
+    font-size: 1em;
+    font-weight: bold;
+    text-decoration: none;
+    transition: 0.3s ease-in-out;
+}
+
+.movie-card:hover .buy-ticket {
+    display: block;
+
+    /* Chỉ hiển thị khi hover ở lg */
+}
+
+.buy-ticket:hover{
+    --x: 100%;
+}
+
+.buy-ticket:active{
+    scale: 0.8;
+}
+
+/* Luôn hiển thị nút "Mua Vé" ở md và sm */
+@media (max-width: 991px) {
+    .buy-ticket {
+        display: block;
+        /* Luôn hiển thị ở md và sm */
+        position: static;
+        margin-top: 10px;
+        transform: none;
+        width: 100%;
+        text-align: center;
+    }
+}
+
+
+/* Detail film styles */
+.movie-poster {
+    max-width: 100%;
+    border-radius: 8px;
+}
+
+.movie-title-detail {
+    font-weight: bold;
+    margin: 0;
+}
+
+.movie-age-detail {
+    background-color: #ff6b6b;
+    color: white;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.movie-meta {
+    color: #ffffff;
+}
+
+.movie-info p {
+    font-size: 15px;
+    margin: 1.4rem 0;
+    text-align: left;
+}
+
+.movie-content {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+/* Tạo hiệu ứng phóng to khi hover */
+.hover-zoom .card-img-top {
+    transition: transform 0.3s ease;
+}
+
+.hover-zoom:hover .card-img-top {
+    transform: scale(1.02);
+}
+.hover-zoom:hover .card-title{
+    color: #4d5fd1;
+}
+
+/* Đặt màu sắc và style cho thẻ liên kết */
+.card-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+.small-image {
+    max-width: 40%;
+    height: auto;
+}
+
+/* Menu-tabs */
+#filmTabs {
+    display: flex;
+    gap: 10px;
+    position: relative;
+}
+
+#filmTabs .nav-link {
+    position: relative;
+    padding: 10px 10px;
+    color: #000000;
+    font-weight: bolder;
+    text-align: center;
+    transition: color 0.3s;
+}
+
+#filmTabs .nav-link.active {
+
+    color: #18009e;
+}
+
+/* Thanh gạch chân động cho tab active */
+#filmTabs .nav-link::after {
+    content: '';
+    position: absolute;
+    bottom: -3px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 2px;
+    background-color: #18009e;
+    transition: width 0.3s ease-in-out;
+}
+
+/* Khi tab được kích hoạt, thanh gạch chân mở rộng */
+#filmTabs .nav-link.active::after {
+    width: 60px;
+}
+
+
+a.nav-link.px-2.fw-bolder.text-capitalize.text-secondary {
+    position: relative;
+    color: #ffffff;
+    text-decoration: none;
+    align-items: center;
+    transition: all 0.3s ease;
+}
+
+a.nav-link.px-2.fw-bolder.text-capitalize.text-secondary:hover{
+    color: #18009e !important;
+}
+
+a.nav-link.px-2.fw-bolder.text-capitalize.text-secondary.active{
+    color: #18009e !important;
+    border-top: 2px solid #18009e;
+    transition: all 0.3s ease;
+}
+
+a.nav-link.px-2.fw-bolder.text-capitalize.text-secondary:hover::after {
+    content: '';
+    position: absolute;
+    bottom: -3px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80px;
+    height: 1px;
+    background-color: #18009e;
+    transition: width 0.3s ease;
+}
+
+a.nav-link.px-2.fw-bolder.text-capitalize.text-secondary::after {
+    content: '';
+    position: absolute;
+    bottom: -3px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 1px;
+    background-color: #18009e;
+    transition: width 0.3s ease;
+}
+
+/* detail-film */
+
+.banner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    height: 550px;
+    overflow: hidden;
+    padding: 0 10rem;
+}
+
+.banner-image {
+    height: 100%;
+    opacity: 0.7;
+}
+
+.banner-overlay {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    padding: 0 10rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.card .card-movie.hover .buy-ticket {
+    display: block;
+}
+
+li.nav-item.day-item {
+    background: #fff;
+    color: #000;
+}
+
+.day-link {
+    cursor: pointer;
+    margin: 0 2rem;
+    border-radius: 5px;
+
+    transition: .5s ease-out;
+}
+
+.day-item a {
+    text-decoration: none;
+    color: gray;
+}
+
+.day-item .day-link:hover {
+    text-decoration: none;
+    background: #000;
+    color: #fff !important;
+}
+
+.day-link.active{
+    color: #000;
+    border: 2px solid #000;
+}
+
+
+.day{
+    border-bottom: 3px solid #18009e !important;
+}
+
+.showtime{
+    margin-top: 2rem;
+}
+
+.showtime li{
+    list-style: none;
+    margin-right: 3.5rem;
+
+}
+
+.showtime li a{
+    border: 2px solid #000;
+    border-radius: 0px;
+    padding: 7px 20px;
+    font-size: 17px;
+    font-weight: bold;
+    transition: .2s ease-out;
+
+}
+
+.showtime li a:hover{
+    transform: scale(1.1);
+    background-color: #18009e;
+    border: 2px solid #18009e;
+    color: #fff;
+    border-radius: 10px;
+}
+
+/* seat */
+
+.tv {
+    border-top: 10px solid #000;
+    border-radius: 10px;
+}
+
+.seat {
+    list-style-type: none;
+    margin-right: 2rem;
+    font-weight: bold;
+    position: relative;
+    /* Ensure relative positioning for absolute child elements */
+}
+
+.seat::before {
+    content: '';
+    display: inline-block;
+    /* Allows for width and height */
+    width: 20px;
+    margin-bottom: 2px;
+    /* Width of the square */
+    height: 20px;
+    /* Height of the square */
+    /* Change color as needed (red in this case) */
+    margin-right: 0.5rem;
+    /* Space between the square and text */
+    vertical-align: middle;
+    border: 2px solid;
+    border-radius: 5px;
+    /* Aligns the square with the text */
+}
+
+.seat.couple::before {
+    width: 40px;
+}
+
+.seat.vip {
+    color: goldenrod;
+}
+
+.seat.single {
+    color: blueviolet;
+}
+
+.seat.couple {
+    color: plum;
+}
+
+.seat.choosed {
+    color: blue;
+}
+
+.seat.selected {
+    color: gray;
+}
+
+.list {
+    cursor: default;
+
+}
+
+.list button {
+    text-align: center;
+    background: #fff;
+    padding: 1px 8px;
+    transition: all .2s ease;
+}
+
+.list button.couple {
+    border: 1px solid #f839dc;
+}
+
+.list button.single {
+    border: 1px solid blueviolet;
+}
+
+.list button.vip{
+    border: 1px solid #ecf32c;
+}
+
+
+.list button:hover {
+    transform: scale(1.1);
+    background: #7f33ff;
+    border: 1px solid #7f33ff;
+    color: #fff;
+}
+
+.list button:active{
+    transform: scale(0.8);
+}
+
+.seat-button.choosed {
+    border-color: blue !important;
+    background-color: rgba(36, 36, 255, 0.422);
+}
+
+#paymentButton {
+    color: aliceblue;
+    border: none;
+    padding: 7px 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    background: linear-gradient(90deg, var(--c1, #61036c), var(--c2, #7f33ff) 51%, var(--c1, #61036c)) var(--x, 0)/ 200%;
+    transition: all .4s ease;
+}
+
+#paymentButton:hover {
+    --x: 100%;
+    transform: scale(1.1);
+    border-radius: 20px;
+}
+
+#paymentButton:active{
+    transform: scale(0.8);
+}
+
+#img-content {
+    width: 15rem !important;
+    height: 180px;
+}
+
+#img-content-top {
+    height: 23rem;
+    width: 100%;
+}
+
+#btn-google a{
+    font-size: medium;
+    transition: all .3s ease;
+}
+
+#btn-google a:hover{
+    text-decoration: none;
+    background-color: #447cff;
+    color: #fff;
+}
+
+#btn-google a i{
+    color: #dc3545;
+    transition: all .3s ease;
+}
+
+#btn-google a:hover i {
+    color: #f9ff46;
+    /* Màu của biểu tượng khi hover */
+}
+
+#btn-google a:active {
+  transform: scale(0.9);
+}
+
